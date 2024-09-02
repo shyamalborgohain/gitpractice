@@ -4,7 +4,7 @@ has Planets
 ## Mercury 
 
 ## Earth 
-
+exists life
 ##  Venus 
 
 ## Mars 
@@ -16,3 +16,5 @@ has Planets
 ## Saturn
 
 ## Uranus
+
+## pliuto excluded
