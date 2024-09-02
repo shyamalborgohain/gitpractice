@@ -1,10 +1,11 @@
-# Planets
-has Planets
+# Universe
+it has Planets.
 
 ## Mercury 
 
 ## Earth 
-exists life
+It has life.
+ 
 ##  Venus 
 
 ## Mars 
@@ -17,4 +18,4 @@ exists life
 
 ## Uranus
 
-## pliuto excluded
+## Pluto*
