@@ -17,4 +17,4 @@ exists life
 
 ## Uranus
 
-## pliuto excluded
+## Pluto*
